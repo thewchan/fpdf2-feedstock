@@ -1,7 +1,6 @@
 {% set name = "fpdf2" %}
 {% set version = "2.3.4" %}
 
-
 package:
   name: {{ name|lower }}
   version: {{ version }}
