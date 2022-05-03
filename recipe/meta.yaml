@@ -1,5 +1,5 @@
 {% set name = "fpdf2" %}
-{% set version = "2.5.1" %}
+{% set version = "2.5.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/fpdf2-{{ version }}.tar.gz
-  sha256: 602f6485ef0156ffa1b39bc83ee5ca00c88d32e5be8651e6ade1a69b825a677e
+  sha256: 6c69fba7235a20dd3491685aad1f3022a8a56791f36a3207c3d1f4f0d71f5f10
 
 build:
   number: 0
