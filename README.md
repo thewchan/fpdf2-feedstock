@@ -9,6 +9,8 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fpdf2-feedstock
 
 Summary: Simple PDF generation for Python
 
+Development: https://github.com/PyFPDF/fpdf2
+
 Current build status
 ====================
 
@@ -144,4 +146,5 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/rpaframework-core](https://github.com/conda-forge/rpaframework-core/)
+* [@thewchan](https://github.com/thewchan/)
 
